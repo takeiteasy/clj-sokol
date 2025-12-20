@@ -10,6 +10,7 @@ Very thin Clojure wrapper for [sokol](https://github.com/floooh/sokol) graphics 
 git clone https://github.com/takeiteasy/jsokol.git
 cd jsokol
 make native # build native library
+cd ../
 lein run
 ```
 ## Usage
